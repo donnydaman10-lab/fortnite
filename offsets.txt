@@ -1,0 +1,2 @@
+UWorld=0x18F6E8F0
+GNames=0x18E293FC
